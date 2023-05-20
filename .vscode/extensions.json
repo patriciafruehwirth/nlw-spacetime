@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "pkief.material-icon-theme",
+    "rocketseat.theme-omni",
+    "ritwickdey.liveserver",
+    "ms-ceintl.vscode-language-pack-pt-br"
+  ]
+}
